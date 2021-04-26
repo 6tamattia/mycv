@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Example - CV</title>
+    <title>mycv</title>
     <link>https://6tamattia.github.io/mycv/</link>
-    <description>Recent content on Example - CV</description>
+    <description>Recent content on mycv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
